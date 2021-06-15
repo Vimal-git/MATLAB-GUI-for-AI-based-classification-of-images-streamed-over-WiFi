@@ -1,8 +1,9 @@
-# matlabGoogLeNetMobileSnapClassification
-MATLAB 2018b based  GUI for image classification with associated transfer learned GoogLeNet, m-files  for Transfer Learning and GUIs to collect data
-MATLAB Files & GUI to Modify GoogLeNet to Classify Images from a Wi-Fi Connected Android Phone 
-A significant part of code in this project is taken from the Mathworks site with link
-https://in.mathworks.com/help/deeplearning/ug/train-deep-learning-network-to-classify-new-images.html
+# General Description
+* This project provides a MATLAB GUI displaying labeled pictures of images streamed from a Wi-Fi Connected Android Phone.
+* A transfer learned GoogLeNet RSETnet.mat is provided to perform the classification.
+* It also provides m-files  and GUIs to collect images on PC from a Wi-Fi Connected Android Phone to develop a transfer learned googlenet with a fresh set of labels.
+**Note:A significant part of code in this project is taken from the Mathworks site with link
+https://in.mathworks.com/help/deeplearning/ug/train-deep-learning-network-to-classify-new-images.html**
 
 ## PRE-REQUISITES
 The project requires the following MATLAB Tool boxes
