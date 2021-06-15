@@ -3,7 +3,7 @@
 * A transfer learned GoogLeNet, RSETnet.mat is provided to perform the classification.
 * It also provides m-files  and GUIs to collect images on PC from a Wi-Fi Connected Android Phone to develop a transfer learned googlenet with a fresh set of labels.
 
-**Note:** The contents of the link here[https://in.mathworks.com/help/deeplearning/ug/train-deep-learning-network-to-classify-new-images.html], was very resourceful in the development of the project
+**Note:** The contents of the link [https://in.mathworks.com/help/deeplearning/ug/train-deep-learning-network-to-classify-new-images.html][] here, was very resourceful in the development of the project
 
 ## PRE-REQUISITES
 The project requires the following MATLAB Tool boxes
