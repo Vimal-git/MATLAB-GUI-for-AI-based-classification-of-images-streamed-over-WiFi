@@ -8,13 +8,14 @@ https://in.mathworks.com/help/deeplearning/ug/train-deep-learning-network-to-cla
 The project requires the following MATLAB Tool boxes
 * MATLAB Support Package for IP Cameras
 * Deep Learning Toolbox
-*Signal Processing Toolbox
-*DSP System Toolbox
-*Audio System Toolbox
-*Deep Learning Toolbox model for GoogLeNet Network
-Note: This project was developed on MATLAB 2018b.A transfer learned GoogLeNet named RSETnet is provided for reference. This classify images under five labels (hand,unknown,eraser,potentiometer and tape)
+* Signal Processing Toolbox
+* DSP System Toolbox
+* Audio System Toolbox
+* Deep Learning Toolbox model for GoogLeNet Network
 
-##Steps to be followed to use the project files
+_Note: This project was developed on MATLAB 2018b.A transfer learned GoogLeNet named RSETnet is provided for reference. This classify images under five labels (hand,unknown,eraser,potentiometer and tape)_
+
+## Steps to be followed to use the project files
 
 1.	Save the matlab files in same folder.
 
