@@ -5,7 +5,7 @@
 
 **Note:** The link [here](https://in.mathworks.com/help/deeplearning/ug/train-deep-learning-network-to-classify-new-images.html), was very resourceful in the development of the project
 
-## PRE-REQUISITES
+## Prerequisites
 The project requires the following MATLAB Tool boxes
 * MATLAB Support Package for IP Cameras
 * Deep Learning Toolbox
@@ -16,7 +16,7 @@ The project requires the following MATLAB Tool boxes
 
 _Note: This project was developed on MATLAB 2018b.A transfer learned GoogLeNet named RSETnet is provided for reference. This classify images under five labels (hand,unknown,eraser,potentiometer and tape)_
 
-## Steps to be followed to use the project files
+## Steps to use the project files
 
 1.	Save the matlab files in same folder.
 
