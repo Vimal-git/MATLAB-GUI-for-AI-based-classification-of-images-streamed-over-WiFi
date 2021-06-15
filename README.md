@@ -4,10 +4,10 @@ MATLAB Files & GUI to Modify GoogLeNet to Classify Images from a Wi-Fi Connected
 A significant part of code in this project is taken from the Mathworks site with link
 https://in.mathworks.com/help/deeplearning/ug/train-deep-learning-network-to-classify-new-images.html
 
-##PRE-REQUISITES
+## PRE-REQUISITES
 The project requires the following MATLAB Tool boxes
-*MATLAB Support Package for IP Cameras
-*Deep Learning Toolbox
+* MATLAB Support Package for IP Cameras
+* Deep Learning Toolbox
 *Signal Processing Toolbox
 *DSP System Toolbox
 *Audio System Toolbox
