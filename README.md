@@ -4,19 +4,19 @@ MATLAB Files & GUI to Modify GoogLeNet to Classify Images from a Wi-Fi Connected
 A significant part of code in this project is taken from the Mathworks site with link
 https://in.mathworks.com/help/deeplearning/ug/train-deep-learning-network-to-classify-new-images.html
 
-PRE-REQUISITES: This project was developed on MATLAB 2018b
+##PRE-REQUISITES
 The project requires the following MATLAB Tool boxes
-•	MATLAB Support Package for IP Cameras
-•	Deep Learning Toolbox
-•	Signal Processing Toolbox
-•	DSP System Toolbox
-•	Audio System ToolboxDeep 
-•	Deep Learning Toolbox model for GoogLeNet Network
-Note: A transfer learned GoogLeNet named RSETnet is provided for reference. This classify images under five labels (hand,unknown,eraser,potentiometer and tape)
+*MATLAB Support Package for IP Cameras
+*Deep Learning Toolbox
+*Signal Processing Toolbox
+*DSP System Toolbox
+*Audio System Toolbox
+*Deep Learning Toolbox model for GoogLeNet Network
+Note: This project was developed on MATLAB 2018b.A transfer learned GoogLeNet named RSETnet is provided for reference. This classify images under five labels (hand,unknown,eraser,potentiometer and tape)
 
-Steps to be followed to use the project files
+##Steps to be followed to use the project files
 
-1.	 Save the matlab files in same folder.
+1.	Save the matlab files in same folder.
 
 2.	This folder named TrainingData should be created in the same folder.
 
