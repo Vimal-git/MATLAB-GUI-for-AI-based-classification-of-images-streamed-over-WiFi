@@ -1,7 +1,8 @@
 # General Description
 * This project provides a MATLAB GUI displaying labeled pictures of images streamed from a Wi-Fi Connected Android Phone.
-* A transfer learned GoogLeNet RSETnet.mat is provided to perform the classification.
+* A transfer learned GoogLeNet, RSETnet.mat is provided to perform the classification.
 * It also provides m-files  and GUIs to collect images on PC from a Wi-Fi Connected Android Phone to develop a transfer learned googlenet with a fresh set of labels.
+
 **Note:A significant part of code in this project is taken from the Mathworks site with link
 https://in.mathworks.com/help/deeplearning/ug/train-deep-learning-network-to-classify-new-images.html**
 
