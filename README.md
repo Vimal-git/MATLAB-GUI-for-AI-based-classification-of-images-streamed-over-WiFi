@@ -3,8 +3,6 @@
 * A transfer learned GoogLeNet, RSETnet.mat is provided to perform the classification.
 * It also provides m-files  and GUIs to collect images on PC from a Wi-Fi Connected Android Phone to develop a transfer learned googlenet with a fresh set of labels.
 
-**Note:** The link [here](https://in.mathworks.com/help/deeplearning/ug/train-deep-learning-network-to-classify-new-images.html), was very resourceful in the development of the project
-
 ## Prerequisites
 The project requires the following MATLAB Tool boxes
 * MATLAB Support Package for IP Cameras
@@ -44,3 +42,8 @@ _Note: This project was developed on MATLAB 2018b.A transfer learned GoogLeNet n
 11.	TransferLearner_GoogLeNet.m is an m-file to modify a standard pre-trained GoogLeNet in MATLAB with new training data in the folder named TrainingData. It will display six random results  and  plot confusion matrices for training and validation data.The newly created network is named googlenet_TL and made available in workspace at end of execution. Note: TransferLearner_GoogLeNet.m requires findLayersToReplace.m file in the same folder to work.
  
 12.	 The network needs renaming so as to be used with GUIs and classifyMobileSnaps.m is provided in this project. The default name of network used by GUI and classifyMobileSnaps.m is RSETnet.To change the default network name in classifierGUI.mlapp change 'RSETnet' in line 79 with your network name.
+
+## Acknowledgement
+The link [here](https://in.mathworks.com/help/deeplearning/ug/train-deep-learning-network-to-classify-new-images.html),from Mathworks documentation was very resourceful in the development of the project.
+
+
